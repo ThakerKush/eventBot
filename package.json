@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "path": "^0.12.7"
+  }
+}
